@@ -44,9 +44,10 @@ Python IDE
   Else → show error
 6. If user selects “Exit”, stop program
 7. Repeat loop
+# Testing
 Test No.	           Input            	Expected Output
 
-  1               	Show seats	         Displays all seat status
+   1               	Show seats	         Displays all seat status
   2            	Book seat 10	          Successfully booked
   3	          Book seat 10 again   	    Shows error: already booked
   4	          Seat number 0 or 45	      Shows error: invalid seat number
