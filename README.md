@@ -2,21 +2,21 @@
 The Bus Reservation System is a simple software application that allows users to check seat availability and book seats quickly and accurately. It displays 40 seats and clearly shows whether each one is available or already booked. Users can view all seats, select a seat to reserve, and receive instant confirmation.
 This project automates the basic reservation process, reducing manual errors and saving time. It applies key programming concepts such as loops, conditionals, lists, modular design, and input validation. The system is easy to use, reliable, and can be enhanced in the future with additional features if needed.
 # Features
-View all 40 seats
-Shows which seats are available/booked
-Book any available seat
-Prevents double-booking
-Validates seat numbers (1–40)
-Simple and clean menu interface
+1.View all 40 seats
+2.Shows which seats are available/booked
+3.Book any available seat
+4.Prevents double-booking
+5.Validates seat numbers (1–40)
+6.Simple and clean menu interface
 # Objective
 The objective of this project is to automate the bus seat booking process and demonstrate the use of:
-Loops
-Lists
-Conditional statements
-Modular programming
-Input validation
+1.Loops
+2.Lists
+3.Conditional statements
+4.Modular programming
+5.Input validation
 # tools used
-programming language- python
+programming language- python, 
 Python IDE
 # Functional requirements
 1.	Seat display module
