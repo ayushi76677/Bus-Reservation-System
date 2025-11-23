@@ -15,7 +15,7 @@ The objective of this project is to automate the bus seat booking process and de
 3.Conditional statements
 4.Modular programming
 5.Input validation
-# tools used
+# Tools used
 programming language- python, 
 Python IDE
 # Functional requirements
@@ -59,7 +59,7 @@ Test No.	           Input            	Expected Output
 4. Run:
   python main.py
 # Future Enhancements
- Add cancellation feature
- Store data in file/database
- Add user login system
- Add GUI interface
+ Add cancellation feature,
+ Store data in file/database,
+ Add user login system,
+ Add GUI interface,
