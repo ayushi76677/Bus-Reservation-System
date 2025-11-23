@@ -63,6 +63,3 @@ Test No.	           Input            	Expected Output
  Store data in file/database
  Add user login system
  Add GUI interface
-
-7.	Should handle invalid inputs 
-8.	Should not crash during normal use
