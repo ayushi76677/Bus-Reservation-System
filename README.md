@@ -34,16 +34,17 @@ Python IDE
 4.	Easy to modify and maintain
 5.	fast response
 # Algorithm
-1.Start
-2. Initialize 40 seats to available
+1. Start
+2. Initialise 40 seats as available
 3. Show menu
-4. If user selects “Show Seats”, display seat status
-5. If user selects “Book Seat”:
-  Validate seat number
-  If free → book it
-  Else → show error
-6. If user selects “Exit”, stop program
+4. If the user selects “Show Seats”, display seat status
+5. If the user selects “Book Seat”:
+  o	Validate seat number
+  o	If free → book it
+  o	Else → show error
+6. If the user selects “Exit”, stop the program
 7. Repeat loop
+
 # Testing
 Test No.	           Input            	Expected Output
 
