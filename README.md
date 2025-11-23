@@ -39,12 +39,11 @@ Python IDE
 3. Show menu
 4. If the user selects “Show Seats”, display seat status
 5. If the user selects “Book Seat”:
-  o	Validate seat number
-  o	If free → book it
-  o	Else → show error
+o	Validate seat number
+o	If free → book it
+o	Else → show error
 6. If the user selects “Exit”, stop the program
 7. Repeat loop
-
 # Testing
 Test No.	           Input            	Expected Output
 
